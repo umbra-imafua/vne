@@ -1,0 +1,8 @@
+@Monster
+>angry.png
+Rahhhh!!
+@Yama_Uba
+Run for your life!!
+<
+@Monster
+Please visit the creators website at <a href="https://imafua.com/">imafua.com</a>

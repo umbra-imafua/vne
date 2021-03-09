@@ -1,0 +1,24 @@
+/* Textbox */
+#Baba_Yaga{
+    color: Violet;
+}
+
+#Yama_Uba{
+    color: lightcoral;
+    text-align: right;
+    align-content: right;
+}
+
+#Monster{
+    color: goldenrod;
+}
+
+/* Sprites */
+.Baba_Yaga{
+    left: 70px;
+}
+
+.Yama_Uba{
+    left: 230px;
+    z-index: 1;
+}

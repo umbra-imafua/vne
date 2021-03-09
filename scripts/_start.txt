@@ -1,0 +1,27 @@
+%home.gif
+@Baba_Yaga
+>solo.png
+Eheheh, thank you for trying out this visual novel engine
+@Yama_Uba
+>smile.png
+Well, it ain't quite an engine, more a webpage template with a lightweight sprinkling of javascript
+We can display all the usual html formatting... <br> <b>enboldened</b>, <i>crooked</i>, <u>underlined</u>, <big>expanded</big>, <small>squashed</small>, <mark>highlighted</mark>, <del>removed</del>, <sup>superscript</sup>
+Here, anything you can shove in a website can go in line of dialouge
+@Baba_Yaga
+>smile.png
+Anything?..
+@Yama_Uba
+Anything that can go in a website
+@Baba_Yaga
+We can even pull javascript directy from the script, Let us display the debug box...
+¬debugbox.style.display = "block";
+Here you can see what the code outputs..
+We can hide it again now.
+¬debugbox.style.display = "none";
+I'll go check on the laundry
+<
+see you later sweetie
+@Yama_Uba
+Speaking of sweet.. what should I add to this potion?
+&Cinnamon=cinnamon
+&Butterscotch=butterscotch

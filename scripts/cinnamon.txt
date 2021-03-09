@@ -1,0 +1,11 @@
+~fuse.mp3
+Uh oh, that doesn't sound good..
+~boom.mp3
+%explosion_tile.png
+>boomed.png
+oof
+@Baba_Yaga
+>smile.png
+%home_wreked.png
+Nevermind dear
+We can always visit the creators website at <a href="https://imafua.com/">imafua.com</a>
